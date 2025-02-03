@@ -1,0 +1,14 @@
+<!-- app/design/frontend/Bio/Diversitate/etc/view.xml -->
+<?xml version="1.0"?>
+<view xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/view.xsd">
+    <vars module="Magento_Theme">
+        <title>Diversitate Theme</title>
+        <default>
+            <!-- Remove or update the CSS reference -->
+            <!-- <head>
+                <css src="css/styles.css"/>
+            </head> -->
+        </default>
+    </vars>
+</view>
